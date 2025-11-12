@@ -1,6 +1,6 @@
 Cancer Awareness & Support — A simple responsive webpage built using HTML, CSS, and JavaScript.
 
-URL-cancer-awareness-webpage.netlify.app
+URL- https://cancer-awareness-webpage.netlify.app/
 
 This project aims to raise awareness about cancer and provide helpful resources for support.
 
@@ -16,3 +16,4 @@ Inspirational quote or awareness note section
 
 
 Built using only HTML, CSS, and vanilla JavaScript
+
